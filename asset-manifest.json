@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StarytoStayProject/static/css/main.c88bec2e.css",
+    "main.js": "/StarytoStayProject/static/js/main.679f57ae.js",
+    "static/media/d1.jpg": "/StarytoStayProject/static/media/d1.19cdf54abca94ec1b8ab.jpg",
+    "static/media/d5.jpg": "/StarytoStayProject/static/media/d5.0788464c2a54b8dc0630.jpg",
+    "static/media/d2.jpg": "/StarytoStayProject/static/media/d2.d66dba55989b83284f26.jpg",
+    "static/media/dog.mp4": "/StarytoStayProject/static/media/dog.5aad918451ae0f46dcad.mp4",
+    "static/media/d6.jpg": "/StarytoStayProject/static/media/d6.51fa3b0f106aecc6b800.jpg",
+    "static/media/d4.jpg": "/StarytoStayProject/static/media/d4.425eb2ced8df02ed2121.jpg",
+    "static/media/d3.jpg": "/StarytoStayProject/static/media/d3.b97059eb837d00369ca8.jpg",
+    "static/media/service-background.jpg": "/StarytoStayProject/static/media/service-background.648aaca90cbf2a1b359a.jpg",
+    "static/media/services-1.png": "/StarytoStayProject/static/media/services-1.8fd92a136f1f977b8235.png",
+    "static/media/services-2.png": "/StarytoStayProject/static/media/services-2.1d3cb3ef77499e665856.png",
+    "static/media/services-3.png": "/StarytoStayProject/static/media/services-3.73feb77eda1fbb273f34.png",
+    "static/media/wwr.avif": "/StarytoStayProject/static/media/wwr.38f6562c43de1f7c806a.avif",
+    "index.html": "/StarytoStayProject/index.html",
+    "main.c88bec2e.css.map": "/StarytoStayProject/static/css/main.c88bec2e.css.map",
+    "main.679f57ae.js.map": "/StarytoStayProject/static/js/main.679f57ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88bec2e.css",
+    "static/js/main.679f57ae.js"
+  ]
+}
