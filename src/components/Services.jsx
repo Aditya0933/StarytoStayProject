@@ -7,7 +7,7 @@ import servicesBackground from '../assets/service-background.jpg'
 export default function Services (){
     return(
         <div>
-            <div className='relative'>
+            <div className='w-full h-full relative'>
                 <div>
                     <img src={servicesBackground} className='absolute w-full h-full  -z-40 backdrop-brightness-100'/>
                 </div>
