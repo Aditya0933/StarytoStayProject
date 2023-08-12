@@ -7,7 +7,8 @@ import Navbar from './components/Navbar';
 import Search from './components/Search';
 import Selects from './components/Selects';
 import Services from './components/Services';
-import WhoweAre from './components/WhoweAre'
+import WhoweAre from './components/WhoweAre';
+import Stories from './components/Stories';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Selects />
       <Carousel />
       <Footer />
+      <Stories/>
     </div>
   );
 }
