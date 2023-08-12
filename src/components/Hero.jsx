@@ -1,10 +1,10 @@
 import React from 'react';
-import { AiOutlineSearch } from 'react-icons/ai';
 import beachVid from '../assets/dog.mp4';
+import './Hero.css'
 
-const Hero = () => {
+const Hero = ({ sticky, nav }) => { // Pass sticky and nav as props
   return (
-    <div className='w-full h-screen relative'>
+    <div className={`w-full h-screen relative ${sticky ? 'sticky' : ''} ${nav ? 'hidden' : ''}`}>
       <video
         className='w-full h-full object-cover'
         src={beachVid}
@@ -14,30 +14,19 @@ const Hero = () => {
       />
       <div className='absolute w-full h-full top-0 left-0 bg-gray-900/30'></div>
       <div className='absolute top-0 w-full h-full flex flex-col justify-center text-center text-white p-4'>
-        <h1>Rescue, Rehabilitate, Rehome</h1>
-        <h2 className='py-4'> Changing Lives Fur-ever!</h2>
-        <form
-          className='flex justify-between items-center max-w-[700px] mx-auto w-full border p-1
-          rounded-md text-black bg-gray-100/90'
-        >
-          <div>
-            <input
-              className='bg-transparent w-[300px] sm:w-[400px] font-[Poppins] focus:outline-none
-                  '
-              type='text'
-              placeholder='Find Your Paw-some Companion'
-            />
-          </div>
-          <div>
-            <button>
-              <AiOutlineSearch size={20} className='icon' style={{color: '#ffffff'}}  />
-            </button>
-          </div>
-        </form>
+             <h1 className='text-5xl mb-2'>Rescue, Rehabilitate, Rehome</h1>
+         <h2 className='py-5 text-4xl'> Changing Lives Fur-ever!</h2>
+        <div className='flex justify-center items-center gap-5 mt-6'>
+           <div>
+             <button className='btn-1'>Find Me More </button>
+           </div>
+           <div>
+             <button className='btn-2'> Adopt Me </button>
+           </div>
+         </div>
       </div>
     </div>
   );
 };
 
 export default Hero;
-

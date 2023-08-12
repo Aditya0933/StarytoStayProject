@@ -12,7 +12,7 @@ export default function Story(){
     return(
         <div>
             <div class="flex flex-col py-20 px-1 bg-gray-900 sm:px-10">
-                <h1 class="font-bold text-4xl text-center mb-5 text-white">Happy Stories </h1>
+                <h1 class="font-bold text-4xl text-center mb-10 text-white">Happy Stories </h1>
                 <p class="text-xl text-center mb-10 text-white">We are happy that we help families find a new family member for themselves.</p>
                 
                 <div class="flex overflow-x-scroll pb-10 hide-scroll-bar z-50 mt-5">
