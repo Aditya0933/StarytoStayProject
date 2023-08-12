@@ -28,19 +28,11 @@ const Navbar = () => {
         <li>🏠 Home</li>
         <li>🐾 Adopt</li>
         <li>🛠️ Services</li>                
-
-
-
-
-
-
-
-
         <li>🌟 About Us</li>
         <li>💌 Contact
 </li>
       </ul>
-      <div className='hidden md:flex'>
+      <div className='hidden md:flex gap-4'>
         <BiSearch className='' size={20} />
         <BsPerson size={20} />
       </div>

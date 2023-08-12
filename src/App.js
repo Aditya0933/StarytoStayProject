@@ -20,9 +20,9 @@ function App() {
       <Search />
       <Services/>
       <Selects />
-      <Carousel />
-      <Footer />
       <Stories/>
+      {/* <Carousel /> */}
+      <Footer />
     </div>
   );
 }
