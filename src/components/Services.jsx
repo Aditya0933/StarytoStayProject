@@ -13,8 +13,8 @@ export default function Services (){
                 </div>
                 <div class="absolute inset-0 bg-black bg-opacity-70">
                 </div>
-                <div className="flex flex-col justify-center items-center text-white gap-4 py-10 px-10 ">
-                    <h1 className=" text-5xl text-center mb-4 z-20"> Our Services </h1>
+                <div className="flex flex-col justify-center text-white gap-4 py-28 px-10 ">
+                    <h1 className=" text-5xl text-center mb-4 z-20 block mx-auto"> Our Services </h1>
                     <p className="text-2xl text-center z-20">Providing hope and shelter to stray dogs. Join us in giving these furry friends a chance at a better life through compassion and care</p>
                 </div>
                 <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-10 '>

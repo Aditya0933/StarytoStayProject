@@ -47,9 +47,9 @@ const Navbar = () => {
       }`}
     >
       <div className='flex items-center'>
-        <h1 onClick={handleNav} className={`website-name ${logo ? 'hidden' : 'block'}`}>
+        <h2 onClick={handleNav} className={`website-name ${logo ? 'hidden' : 'block'}`}>
           StrayToStay
-        </h1>
+        </h2>
       </div>
       <ul className='hidden md:flex text-white'>
         <li>🏠 Home</li>

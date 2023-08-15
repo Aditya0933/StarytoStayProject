@@ -5,7 +5,7 @@ import { RiCustomerService2Fill } from 'react-icons/ri'; // Import RiCustomerSer
 
 const Search = () => {
   return (
-      <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3 gap-4 px-4 py-16 z-40'> 
+      <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3 gap-4 px-4 py-28 z-40'> 
         <div className='lg:col-span-2 flex flex-col justify-evenly'>
           <div>
             <h2 className='z-40'>Embrace the Stray Dogs' Journey</h2>
