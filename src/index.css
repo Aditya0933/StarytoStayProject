@@ -24,7 +24,10 @@
   }
 
   h1 {
-    @apply text-3xl md:text-4xl font-bold
+    @apply relative text-3xl md:text-4xl font-bold
+  }
+  h1::after{
+    @apply absolute content-[''] bg-white h-[3px] w-[100px] left-0 -bottom-[5px] rounded-xl
   }
 
   h2 {
