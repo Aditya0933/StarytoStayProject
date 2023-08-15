@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StarytoStayProject/static/css/main.c9b390d1.css",
-    "main.js": "/StarytoStayProject/static/js/main.30d00f61.js",
+    "main.css": "/StarytoStayProject/static/css/main.5ba14971.css",
+    "main.js": "/StarytoStayProject/static/js/main.9506e831.js",
     "static/media/d1.jpg": "/StarytoStayProject/static/media/d1.19cdf54abca94ec1b8ab.jpg",
     "static/media/d5.jpg": "/StarytoStayProject/static/media/d5.0788464c2a54b8dc0630.jpg",
     "static/media/d2.jpg": "/StarytoStayProject/static/media/d2.d66dba55989b83284f26.jpg",
@@ -9,27 +9,22 @@
     "static/media/d6.jpg": "/StarytoStayProject/static/media/d6.51fa3b0f106aecc6b800.jpg",
     "static/media/d4.jpg": "/StarytoStayProject/static/media/d4.425eb2ced8df02ed2121.jpg",
     "static/media/d3.jpg": "/StarytoStayProject/static/media/d3.b97059eb837d00369ca8.jpg",
-    "static/media/3-happy-pet-stories-2017-Wags-to-Riches-Patrick-Stewart-Ginger.webp": "/StarytoStayProject/static/media/3-happy-pet-stories-2017-Wags-to-Riches-Patrick-Stewart-Ginger.4dcd988f27dcfa1972bd.webp",
-    "static/media/9-happy-pet-stories-2017-Love-letter-to-dog.webp": "/StarytoStayProject/static/media/9-happy-pet-stories-2017-Love-letter-to-dog.6a3056b57e8b45df2eb9.webp",
-    "static/media/7-happy-pet-stories-2017-senior-German-Shepherd-Sienna-7381.webp": "/StarytoStayProject/static/media/7-happy-pet-stories-2017-senior-German-Shepherd-Sienna-7381.072259e0a1d69cb03dbe.webp",
+    "static/media/C-S-2.jpg": "/StarytoStayProject/static/media/C-S-2.a5e4b726128c5715efff.jpg",
     "static/media/service-background.jpg": "/StarytoStayProject/static/media/service-background.648aaca90cbf2a1b359a.jpg",
-    "static/media/10-happy-pet-stories-2017-Two-older-dogs.webp": "/StarytoStayProject/static/media/10-happy-pet-stories-2017-Two-older-dogs.974048ab40b8630fedd0.webp",
-    "static/media/4-happy-pet-stories-2017-Dog-and-puppies-Hurricane-Harvey.webp": "/StarytoStayProject/static/media/4-happy-pet-stories-2017-Dog-and-puppies-Hurricane-Harvey.0604fd1d18348988dfe4.webp",
-    "static/media/2-happy-pet-stories-2017-Priceless-Picasso.webp": "/StarytoStayProject/static/media/2-happy-pet-stories-2017-Priceless-Picasso.5ccbc87c58ddf97bb100.webp",
-    "static/media/5-happy-pet-stories-2017-Dog-reunited-Marmaduke-Reunion-4552.webp": "/StarytoStayProject/static/media/5-happy-pet-stories-2017-Dog-reunited-Marmaduke-Reunion-4552.e799de6e675f49ca5ecf.webp",
-    "static/media/6-happy-pet-stories-2017-Hurricane-Harvey-heroes-for-pets.webp": "/StarytoStayProject/static/media/6-happy-pet-stories-2017-Hurricane-Harvey-heroes-for-pets.f48ee0b67c98ac5ca9ac.webp",
-    "static/media/1-happy-pet-stories-2017-A-dog-named-Boy-3063.webp": "/StarytoStayProject/static/media/1-happy-pet-stories-2017-A-dog-named-Boy-3063.ca7a828a5abed1c77662.webp",
-    "static/media/8-happy-pet-stories-2017-Homer-9111.webp": "/StarytoStayProject/static/media/8-happy-pet-stories-2017-Homer-9111.100073ede2c030e82451.webp",
+    "static/media/C-S-1.jpg": "/StarytoStayProject/static/media/C-S-1.7c52184f1a172865d594.jpg",
+    "static/media/C-S-3.jpg": "/StarytoStayProject/static/media/C-S-3.5df0f6309153845fb472.jpg",
     "static/media/services-1.png": "/StarytoStayProject/static/media/services-1.8fd92a136f1f977b8235.png",
+    "static/media/C-S-4.jpg": "/StarytoStayProject/static/media/C-S-4.7b88d4052c7c0318e2e6.jpg",
+    "static/media/C-S-6.jpg": "/StarytoStayProject/static/media/C-S-6.19769736d23428fe7c77.jpg",
     "static/media/services-2.png": "/StarytoStayProject/static/media/services-2.1d3cb3ef77499e665856.png",
     "static/media/services-3.png": "/StarytoStayProject/static/media/services-3.73feb77eda1fbb273f34.png",
     "static/media/wwr.avif": "/StarytoStayProject/static/media/wwr.38f6562c43de1f7c806a.avif",
     "index.html": "/StarytoStayProject/index.html",
-    "main.c9b390d1.css.map": "/StarytoStayProject/static/css/main.c9b390d1.css.map",
-    "main.30d00f61.js.map": "/StarytoStayProject/static/js/main.30d00f61.js.map"
+    "main.5ba14971.css.map": "/StarytoStayProject/static/css/main.5ba14971.css.map",
+    "main.9506e831.js.map": "/StarytoStayProject/static/js/main.9506e831.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9b390d1.css",
-    "static/js/main.30d00f61.js"
+    "static/css/main.5ba14971.css",
+    "static/js/main.9506e831.js"
   ]
 }
